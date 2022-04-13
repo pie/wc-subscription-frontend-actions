@@ -9,9 +9,11 @@ License:     GPL3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 */
 
-/* PIE\WCSubscriptionFrontendActions Add New Card as Default is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or any later version.
-PIE\WCSubscriptionFrontendActions Add New Card as Default is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-You should have received a copy of the GNU General Public License along with PIE\WCSubscriptionFrontendActions Add New Card as Default. If not, see https://www.gnu.org/licenses/gpl-3.0.en.html */
+/* PIE\WCSubscriptionFrontendActions is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or any later version.
+
+PIE\WCSubscriptionFrontendActions is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with PIE\WCSubscriptionFrontendActions. If not, see https://www.gnu.org/licenses/gpl-3.0.en.html */
 
 namespace PIE\WCSubscriptionFrontendActions;
 

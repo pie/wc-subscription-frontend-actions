@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Modify WooCommerce Subscription Actions
+Plugin Name: WooCommerce Subscriptions: Modify Actions
 Description: Adds a payment button for users on the frontend that allows them to make a payment for "on-hold" subscriptions and redirects the resubscribe button to the product URL
 Version:     0.1
 Author:      The team at PIE

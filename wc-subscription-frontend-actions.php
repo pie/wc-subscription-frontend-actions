@@ -56,5 +56,5 @@ if ( function_exists( 'wc_get_endpoint_url' ) ) {
 		}
 		return $actions;
 	}
-	add_filter( 'wcs_view_subscription_actions', __NAMESPACE__ . '\redirect_resub_sction', 10, 2 );
+	add_filter( 'wcs_view_subscription_actions', __NAMESPACE__ . '\redirect_resub_action', 10, 2 );
 }

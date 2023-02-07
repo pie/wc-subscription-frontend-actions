@@ -1,0 +1,6 @@
+{
+  "name": "pie/wc-subscription-frontend-actions",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+}
